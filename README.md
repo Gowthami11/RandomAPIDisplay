@@ -1,2 +1,0 @@
-# RandomAPIDisplay
-Created with CodeSandbox
